@@ -1,6 +1,6 @@
 # IMDB_Clone_API
 
-Hosted link :-
+Hosted link :- https://kundan7030.github.io/IMDB_Clone_API/
 In this frontend project a HTML ,CSS &amp; javascript are used.
 
 In this project we can
